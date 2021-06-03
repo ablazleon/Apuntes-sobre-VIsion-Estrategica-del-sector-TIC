@@ -43,6 +43,26 @@ An'alisis de entorno del sector TIC
 
 ### 7. La globalización
 
+Consolidación del sector telco
+
+### 1. Los mercados fijo y móvil en 2013
+
+### 2. La primera oleada: consolidacion fijo-movil 2014
+
+### 3. El cuarto operador integrado
+
+### 4. Una segunda oleada? La integración vertical
+
+---------------
+### 1. Los mercados fijo y móvil en 2013
+
+### 2. La primera oleada: consolidacion fijo-movil 2014
+
+### 3. El cuarto operador integrado
+
+### 4. Una segunda oleada? La integración vertical
+
+
 ## 3. [El ecosistema de internet]
 
 
