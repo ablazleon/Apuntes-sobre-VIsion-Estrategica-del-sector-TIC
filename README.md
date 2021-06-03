@@ -62,9 +62,51 @@ Consolidación del sector telco
 
 ### 4. Una segunda oleada? La integración vertical
 
+La deocnstrucción de las telcos
+
+### 1. La evolución de los operadores de telecomunciación
+
+### 2. De dónde vendrán los nuevos ingresos
+
+### 3. Oportunidades: el papel del 5G
+
+### 4. Oportunidades: el valor de las infraestructuras
+
+### 5. Oportunidades: apertura de equipos
+
+### 6. Riesgos: desintermediación de la realación con el cliente
 
 ## 3. [El ecosistema de internet]
 
+Intro
+
+### 1 El origen de la red de redes
+
+### 2 La evolución de internet
+
+### 3 Los servicios de itnernet bajo paltaformas
+
+### 4 Gobernanza d eitnernet
+
+Regulando internet: internet abierta y level playing field
+
+### 1 NN: orígenes y regulación
+
+### 2 Argumentos a favor y en contra de NN
+
+### 3 Hacia una neutralidad digital
+
+### 4 Desafíos para un level playing field
+
+Privacidad y seguridad en la era post snowden
+
+### 1 El caso Snowden
+
+### 2 Plataformas de internet y cifrado
+
+### 3 Reacciones de los gobiernos: vigilancia y provacidad
+
+### 4 Privacidad y ética de los datos
 
 
 ## 4. [La economía digital]
