@@ -41,7 +41,7 @@ An'alisis de entorno del sector TIC
 
 ### 6. La intervención pública en el ecosistema digital
 
-
+### 7. La globalización
 
 ## 3. [El ecosistema de internet]
 
