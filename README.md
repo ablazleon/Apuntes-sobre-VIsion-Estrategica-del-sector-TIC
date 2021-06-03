@@ -110,3 +110,17 @@ Privacidad y seguridad en la era post snowden
 
 
 ## 4. [La economía digital]
+
+La economía digital
+
+### 1 Revisión: sector digital  versus digitalización de la eocnomía y sociedad 
+
+### 2 El papel de las plataformas en la transformación digital de la economía y sociedad
+
+### 3 La digitalización de la economía y la sociedad en España en el contexto Europeo
+
+### 4 Las meddias de impulso a la digitalización en el Plan de Recuperación, Transformación y Resiliencia
+
+
+
+
