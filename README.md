@@ -121,6 +121,21 @@ La economía digital
 
 ### 4 Las meddias de impulso a la digitalización en el Plan de Recuperación, Transformación y Resiliencia
 
+Amazon: de la venta online de libros a plataforma de comercio electrónico y cloud
+
+### 1 La economía digital en los inicios de internet
+
+### 2 De la burbuja puntocom a la estrategia de plataforma
+
+### 3 expansión a sectores adyacentes
+
+### 4 competidores y convergencia
+
+### 5 el futuro
+
+Transofrmación digital en el sector financiero
+
+
 
 
 
