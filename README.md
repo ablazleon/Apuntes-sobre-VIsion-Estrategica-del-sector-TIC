@@ -1,4 +1,4 @@
-# Apuntes-sobre-VIsion-Estrategica-del-sector-TIC
+# Apuntes-sobre-Vision-Estrategica-del-sector-TIC
 
 ## 1. [Análisis de entorno del sector TIC]
 
@@ -16,6 +16,8 @@
 ### 1. La industria emergente de la informática
 
 ### 2. Las estrategias fallidas
+
+Sculliey, spindler, Gil Amelio
 
 ### 3. La estrategia del hub digital
 
